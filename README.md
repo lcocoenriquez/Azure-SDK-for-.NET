@@ -52,33 +52,41 @@ https://www.udemy.com/course/azure-certification-1
 
 https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/
 
-## 9. Azure SDK for .NET
+## 9. AZ-700 Design and Implement Microsoft Azure Network Solutions
+
+https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/
+
+## 10. AZ-400 Designing and Implementing Microsoft DevOps solutions
+
+https://learn.microsoft.com/en-us/training/courses/az-400t00
+
+## 11. Azure SDK for .NET
 
 https://learn.microsoft.com/en-us/dotnet/azure/
 
-### 9.1. Azure SDK for .NET (GitHub repo)
+### 11.1. Azure SDK for .NET (GitHub repo)
 
 https://github.com/Azure/azure-sdk-for-net
 
-### 9.2. 
+### 11.2. 
 
 
 
-### 9.3. 
+### 11.3. 
 
 
-### 9.4. 
-
-
-
-### 9.5. 
-
-
-### 9.6. 
+### 11.4. 
 
 
 
-## 10. 
+### 11.5. 
+
+
+### 11.6. 
+
+
+
+## 12. 
 
 
 
