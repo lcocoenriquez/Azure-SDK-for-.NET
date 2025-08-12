@@ -36,6 +36,25 @@ https://learn.microsoft.com/en-us/training/courses/az-900t00
 
 ## 6. AZ-104 Microsoft Azure IT Administrator
 
+https://learn.microsoft.com/en-us/training/courses/az-104t00
+
+## 7. AZ-204 Microsoft Azure Developer Associate
+
+https://learn.microsoft.com/en-us/training/courses/az-204t00
+
+## 8. AZ-305 Microsoft Azure Solutions Architect
+
+
+
+## 9. Azure SDK for .NET
+
+### 9.1. Azure SDK for .NET (GitHub repo)
+
+### 9.2. 
+
+### 9.3. 
+
+
 
 
 
