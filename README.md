@@ -40,6 +40,8 @@ https://www.udemy.com/course/microsoft-azure-beginners-guide
 
 https://learn.microsoft.com/en-us/training/courses/az-104t00
 
+https://www.udemy.com/course/microsoft-certified-azure-administrator
+
 ## 7. AZ-204 Microsoft Azure Developer Associate
 
 https://learn.microsoft.com/en-us/training/courses/az-204t00
