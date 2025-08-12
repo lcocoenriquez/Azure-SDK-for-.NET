@@ -32,6 +32,8 @@ https://visualstudio.microsoft.com/vs/preview/
 
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals
 
+https://learn.microsoft.com/en-us/training/courses/az-900t00
+
 ## 6. AZ-104 Microsoft Azure IT Administrator
 
 
