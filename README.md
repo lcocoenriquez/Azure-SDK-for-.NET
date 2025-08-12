@@ -48,20 +48,34 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-arc
 
 ## 9. Azure SDK for .NET
 
+https://learn.microsoft.com/en-us/dotnet/azure/
+
 ### 9.1. Azure SDK for .NET (GitHub repo)
 
+https://github.com/Azure/azure-sdk-for-net
+
 ### 9.2. 
+
+
 
 ### 9.3. 
 
 
+### 9.4. 
 
 
 
+### 9.5. 
 
 
+### 9.6. 
+
+
+
+## 10. 
 
 
 
 
  
+ 3. 
