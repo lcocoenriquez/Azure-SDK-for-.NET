@@ -44,7 +44,7 @@ https://learn.microsoft.com/en-us/training/courses/az-204t00
 
 ## 8. AZ-305 Microsoft Azure Solutions Architect
 
-
+https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/
 
 ## 9. Azure SDK for .NET
 
