@@ -44,6 +44,8 @@ https://learn.microsoft.com/en-us/training/courses/az-104t00
 
 https://learn.microsoft.com/en-us/training/courses/az-204t00
 
+https://www.udemy.com/course/azure-certification-1
+
 ## 8. AZ-305 Microsoft Azure Solutions Architect
 
 https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/
